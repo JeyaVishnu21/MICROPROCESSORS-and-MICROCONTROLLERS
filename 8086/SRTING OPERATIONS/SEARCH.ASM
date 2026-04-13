@@ -1,4 +1,4 @@
-//search an element
+//To search an element in the given string
 
        	OUTPUT 2500AD
 .ORG 2000H
