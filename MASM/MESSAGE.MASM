@@ -1,4 +1,4 @@
-// To print a message in the screen
+// To print a message which is in the file and write it in the screen
 
 DATA SEGMENT
 FN DB 'TEXT.TXT','$'
