@@ -1,4 +1,4 @@
-//sorting an array
+//To sort the given  array
 
           OUTPUT 2500AD
 .ORG 2000H
