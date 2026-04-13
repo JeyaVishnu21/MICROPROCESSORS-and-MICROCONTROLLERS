@@ -1,4 +1,4 @@
-//string compare
+//To compare two string and find whether they are equal or not
 
 	OUTPUT 2500AD
 .ORG 2000H
